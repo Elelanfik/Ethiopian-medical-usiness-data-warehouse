@@ -16,8 +16,8 @@ This project involves building a data warehouse to store and analyze data on Eth
 ## Project Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Elelanfik/ethiopian-medical-business-data-warehouse.git
-    cd ethiopian-medical-business-data-warehouse
+    git clone https://github.com/Elelanfik/Ethiopian-medical-business-data-warehouse.git
+    cd Ethiopian-medical-business-data-warehouse
     ```
 
 2. Set up a virtual environment and install necessary dependencies:
