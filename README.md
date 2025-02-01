@@ -47,9 +47,7 @@ This project involves building a data warehouse to store and analyze data on Eth
   2. Standardize data formats.
   3. Store cleaned data in a database.
   4. Use DBT for data transformation.
-    ```bash
-    dbt run
-    ```
+     
 
 ### Task 3: Object Detection Using YOLO
 - **Objective**: Implement object detection to extract useful insights from images.
